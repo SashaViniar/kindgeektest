@@ -1,0 +1,14 @@
+.somehead{
+    height: 50px;
+    width: 100%;
+    background-color: #E6E6E6;
+}
+
+.left{
+    height: 800px;
+    width: 100%;
+    border: solid 1px black;
+}
+.btn{
+    width: 100%;
+}
